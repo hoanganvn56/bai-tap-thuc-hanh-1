@@ -4,7 +4,7 @@ Mô tả thuật toán bằng ngôn ngữ tự nhiên:
 Bước 1 (Nhập): Nhập cân nặng (tính bằng kg) và chiều cao (tính bằng mét) từ bàn phím.
 
 Bước 2 (Xử lý): * Tính chỉ số BMI theo công thức:
-BMI = 
+BMI = W/(HXh)
 Sử dụng cấu trúc rẽ nhánh if - elif - else để phân loại:
 
 Nếu BMI<18.5: Kết luận "Gầy".
